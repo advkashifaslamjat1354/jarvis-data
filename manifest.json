@@ -1,10 +1,10 @@
 {
- "bundleVersion": "2026-11-01.2",
+ "bundleVersion": "2026-11-01.3",
  "date": "2026-11-01",
- "file": "jarvis-data-bundle-2026-11-01.2.zip",
- "sha256": "56bcab3be4a3f01bb6dfefcb5bf0013b9f6dcca6892e5f79a180a06784a2495a",
- "sizeBytes": 9815458,
- "bundleUrl": "https://github.com/advkashifaslamjat1354/jarvis-data/releases/download/data-latest/jarvis-data-bundle-2026-11-01.2.zip",
+ "file": "jarvis-data-bundle-2026-11-01.zip",
+ "sha256": "f6f75637270dac1ac6da4f50548b8503039f8e20290956d66447c747f7f22bfb",
+ "sizeBytes": 9815421,
+ "bundleUrl": "https://github.com/advkashifaslamjat1354/jarvis-data/releases/download/data-latest/jarvis-data-bundle-2026-11-01.zip",
  "counts": {
   "judgements": 59,
   "pdfs": 50,
