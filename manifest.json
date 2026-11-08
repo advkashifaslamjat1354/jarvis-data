@@ -1,16 +1,16 @@
 {
- "bundleVersion": "2026-11-08",
- "date": "2026-11-08",
+ "bundleVersion": "2026-11-08.2",
+ "date": "2026-11-08.2",
  "file": "jarvis-data-bundle-2026-11-08.zip",
- "sha256": "ecc1f62f2a7517e91f4a9daa9995c3d0ee0b69773d50027f06c6844c4983d946",
- "sizeBytes": 14916393,
+ "sha256": "c56772cc2387e4ed90bcee22a1a6b1c37649f818c58429f8506e53ddcdaf0b23",
+ "sizeBytes": 15738308,
  "bundleUrl": "https://github.com/advkashifaslamjat1354/jarvis-data/releases/download/data-latest/jarvis-data-bundle-2026-11-08.zip",
  "counts": {
   "judgements": 59,
   "pdfs": 50,
   "learning": 72,
   "scenesReady": 1,
-  "stories": 7,
+  "stories": 8,
   "causeListDays": 9,
   "causeEntries": 889,
   "myCases": 1
