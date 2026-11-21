@@ -1,18 +1,18 @@
 {
- "bundleVersion": "2026-11-21.2",
- "date": "2026-11-21.2",
- "file": "jarvis-data-bundle-2026-11-21.2.zip",
- "sha256": "3e5bf7b02159a9063cddedfee9bc036154ad6c060fc109eeaf7a94de2b260ad4",
- "sizeBytes": 158394769,
- "bundleUrl": "https://github.com/advkashifaslamjat1354/jarvis-data/releases/download/data-latest/jarvis-data-bundle-2026-11-21.2.zip",
+ "bundleVersion": "2026-11-21.3",
+ "date": "2026-11-21.3",
+ "file": "jarvis-data-bundle-2026-11-21.3.zip",
+ "sha256": "a62f0e9b2f5ff4f15c53068019409c5ef94fc4ba2d1a5cf2ac6e845f213a58f4",
+ "sizeBytes": 173311869,
+ "bundleUrl": "https://github.com/advkashifaslamjat1354/jarvis-data/releases/download/data-latest/jarvis-data-bundle-2026-11-21.3.zip",
  "counts": {
   "judgements": 59,
   "pdfs": 50,
   "learning": 129,
-  "scenesReady": 25,
+  "scenesReady": 28,
   "stories": 20,
   "causeListDays": 21,
-  "causeEntries": 3197,
+  "causeEntries": 3216,
   "myCases": 13
  }
 }
